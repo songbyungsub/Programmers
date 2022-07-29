@@ -84,7 +84,7 @@ long int after_d = stof(str_d); // "2300000000"을 long int형으로 바꿔줌
 ## **string 의 유용한 함수들**
 
 ### **str.empty();**
-문자열이 비었나 확인합니다. 이것은 문자열의 size 혹은 length 값이 0인지 아닌지를 보는 것.
+문자열이 비었나 확인한다. 이것은 문자열의 size 혹은 length 값이 0인지 아닌지를 보는 것.
 
 ### **swap(str1,str2)**
 str1, str2 문자열을 서로 swap 한다. (바꾸기)
